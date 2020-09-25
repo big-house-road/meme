@@ -4,25 +4,29 @@
 
 ## todo
 
-[] Stack
-[] Queue
-[] LinkedList
-[] Tree
-[] HashTable
-[] Heap
-[] Graph
+- [x] Stack
+- [] Queue
+- [] LinkedList
+- [] Tree
+- [] HashTable
+- [] Heap
+- [] Graph
 
 ## Install
 
-```
-
+```bash
+npm install meme --save
 ```
 
 ## Usage
 
-```
-npm run test
+### Stack
 
+```ts
+const stack = new Stack();
+stack.push(1);
+if (stack.empty()) {
+}
 ```
 
 ## Contributing
