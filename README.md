@@ -5,12 +5,12 @@
 ## todo
 
 - [x] Stack
-- [] Queue
-- [] LinkedList
-- [] Tree
-- [] HashTable
-- [] Heap
-- [] Graph
+- [ ] Queue
+- [ ] LinkedList
+- [ ] Tree
+- [ ] HashTable
+- [ ] Heap
+- [ ] Graph
 
 ## Install
 
@@ -25,7 +25,7 @@ npm install meme --save
 ```ts
 const stack = new Stack();
 stack.push(1);
-if (stack.empty()) {
+  if (stack.empty()) {
 }
 ```
 
