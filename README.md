@@ -5,7 +5,7 @@
 ## todo
 
 - [x] Stack
-- [] Queue
+- [x] Queue
 - [] LinkedList
 - [] Tree
 - [] HashTable
