@@ -6,11 +6,11 @@
 
 - [x] Stack
 - [x] Queue
-- [] LinkedList
-- [] Tree
-- [] HashTable
-- [] Heap
-- [] Graph
+- [ ] LinkedList
+- [ ] Tree
+- [ ] HashTable
+- [ ] Heap
+- [ ] Graph
 
 ## Install
 
