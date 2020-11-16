@@ -6,7 +6,7 @@
 
 - [x] Stack
 - [x] Queue
-- [ ] LinkedList
+- [x] LinkedList
 - [ ] Tree
 - [ ] HashTable
 - [ ] Heap
